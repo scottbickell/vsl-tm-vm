@@ -470,11 +470,14 @@ h4 {
   font-size: 14px; }
 
 .headline {
+  background: #ffffff; }
+
+.top-bar {
   background: #76bd22; }
 
 .headline h1 {
   text-align: center;
-  color: #ffffff;
+  color: #76bd22;
   font-size: 24px;
   margin: 0;
   padding: 0; }
